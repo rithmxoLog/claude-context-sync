@@ -1,2 +1,5 @@
 .claude-sync.json
 .claude-sync-state.json
+node_modules/
+dist/
+
